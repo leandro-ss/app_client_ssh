@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/br/com/inmetrics/database/ConnectionSQL.java=UTF-8
+encoding//src/br/com/inmetrics/ssh/RemoteConnection.java=UTF-8
+encoding//tst/br/com/inmetrics/database/ConnectionSQLTest.java=UTF-8
