@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.monitoring.ssh</groupId>
-    <artifactId>app_client_ssh</artifactId>
+    <artifactId>app_monitoring_ssh</artifactId>
     <packaging>jar</packaging>
 
     <parent>
