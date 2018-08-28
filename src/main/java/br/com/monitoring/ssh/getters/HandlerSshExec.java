@@ -37,7 +37,7 @@ public class HandlerSshExec  implements Getter{
                 readByte = commandOutput.read();
             }
 
-            writer.execute(new Object[]{outputBuffer});
+            writer.execute(new Object[]{command,outputBuffer});
 
         } catch (JSchException e) {
             logger.error("Error",e);
